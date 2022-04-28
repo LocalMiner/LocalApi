@@ -1,4 +1,5 @@
 {
     "ngrok":"https://github.com/LocalMiner/CloudLibrary/blob/main/excute/ngrok.exe?raw=true",
-    "E":"https://raw.githubusercontent.com/LocalMiner/CloudLibrary/main/server.properties"
+    "E":"https://raw.githubusercontent.com/LocalMiner/CloudLibrary/main/server.properties",
+    "S":"https://raw.githubusercontent.com/LocalMiner/CloudLibrary/main/excute/eula.txt"
 }
