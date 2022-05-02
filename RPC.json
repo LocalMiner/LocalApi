@@ -6,7 +6,7 @@
     "Title": "Host MineCraft Server Locally",
     "largeImageText": "©️Copyright 2021 ~ Healer",
     "smallImageText": "i am Sleeping",
-    "button" :[{"label" : "Download" , "url" : "https://github.com/healer-op/LocalMiner-Updater/releases/download/1.0/Setup.zip"},{"label" : "Star Repo","url" : "https://github.com/LocalMiner/Installer"}],
+    "button" :[{"label" : "Download" , "url" : "https://github.com/LocalMiner/Installer/releases/download/1.04.3/LocalMiner.zip"},{"label" : "Star Repo","url" : "https://github.com/LocalMiner/Installer"}],
     "Status": [ "Rendering Chunks (1 of 5)",
                 "Clearing Pillager Raid (3 of 5)",
                 "Taming Horse 🐴",
