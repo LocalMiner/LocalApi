@@ -6,7 +6,7 @@
     "Title": "Host MineCraft Server Locally",
     "largeImageText": "©️Copyright 2021 ~ Healer",
     "smallImageText": "i am Sleeping",
-    "button" :[{"label" : "Discord" , "url" : "https://discord.gg/R8k6a8BdGd"},{"label" : "Download","url" : "https://healer-op.github.io/minerweb"}],
+    "button" :[{"label" : "Discord" , "url" : "https://discord.gg/R8k6a8BdGd"},{"label" : "Download","url" : "https://localminer.me"}],
     "Status": [ "Rendering Chunks (1 of 5)",
                 "Clearing Pillager Raid (3 of 5)",
                 "Taming Horse 🐴",
