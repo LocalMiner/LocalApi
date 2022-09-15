@@ -1,8 +1,10 @@
 {
     "versions":[
-        "𝟭.𝟭𝟵 ⭐",
+        "1.19.2",
+        "1.19.1",
+        "1.19 ⭐",
         "𝗡𝘂𝗸𝗸𝗶𝘁𝗫 𝗕𝗲𝗱𝗿𝗼𝗰𝗸 ⭐BETA",
-        "𝟭.𝟭𝟴.𝟮 ⭐",
+        "1.18.2 ⭐",
         "1.18.1",
         "1.18",
         "1.17.1",
@@ -32,6 +34,8 @@
         "𝟭.𝟴.𝟴 ⭐"
     ],
     "links":[
+        "https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/125/downloads/paper-1.19.2-125.jar",
+        "https://api.papermc.io/v2/projects/paper/versions/1.19.1/builds/111/downloads/paper-1.19.1-111.jar",
         "https://api.papermc.io/v2/projects/paper/versions/1.19/builds/56/downloads/paper-1.19-56.jar",
         "https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/lastSuccessfulBuild/artifact/target/nukkit-1.0-SNAPSHOT.jar",
         "https://papermc.io/api/v2/projects/paper/versions/1.18.2/builds/312/downloads/paper-1.18.2-312.jar",
